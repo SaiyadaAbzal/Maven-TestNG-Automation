@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Salesforce">
+<test name="SFDCLogin">
+<classes>
+<class name="Salesforce.TestCases.LoginTests"/>
+<class name="Salesforce.TestCases.UsermenuTests"/>
+<class name="Salesforce.TestCases.AccountTests"/>
+<class name="Salesforce.TestCases.OpportunityTests"/>
+<class name="Salesforce.TestCases.LeadsTests"/>
+<class name="Salesforce.TestCases.ContactTests"/>
+<class name="Salesforce.TestCases.RandomTests"/>
+</classes>
+</test>
+
+</suite>
+

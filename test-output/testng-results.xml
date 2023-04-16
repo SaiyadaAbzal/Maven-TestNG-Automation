@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80042" started-at="2023-04-06T22:36:56 EDT" finished-at="2023-04-06T22:38:16 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80042" started-at="2023-04-06T22:36:56 EDT" finished-at="2023-04-06T22:38:16 EDT">
+      <class name="Salesforce.TestCases.LeadsTests">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="beforemethod" is-config="true" duration-ms="2670" started-at="2023-04-06T22:36:56 EDT" finished-at="2023-04-06T22:36:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="TC20Leads()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="TC20Leads" duration-ms="8347" started-at="2023-04-06T22:36:58 EDT" finished-at="2023-04-06T22:37:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC20Leads -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="aftermethod" is-config="true" duration-ms="422" started-at="2023-04-06T22:37:07 EDT" finished-at="2023-04-06T22:37:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="beforemethod" is-config="true" duration-ms="1775" started-at="2023-04-06T22:37:07 EDT" finished-at="2023-04-06T22:37:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="TC21Leads()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="TC21Leads" duration-ms="7788" started-at="2023-04-06T22:37:09 EDT" finished-at="2023-04-06T22:37:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC21Leads -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="aftermethod" is-config="true" duration-ms="357" started-at="2023-04-06T22:37:17 EDT" finished-at="2023-04-06T22:37:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="beforemethod" is-config="true" duration-ms="1829" started-at="2023-04-06T22:37:17 EDT" finished-at="2023-04-06T22:37:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="TC22Leads()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="TC22Leads" duration-ms="20830" started-at="2023-04-06T22:37:19 EDT" finished-at="2023-04-06T22:37:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC22Leads -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="aftermethod" is-config="true" duration-ms="541" started-at="2023-04-06T22:37:40 EDT" finished-at="2023-04-06T22:37:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="beforemethod" is-config="true" duration-ms="3148" started-at="2023-04-06T22:37:40 EDT" finished-at="2023-04-06T22:37:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="TC23Leads()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="TC23Leads" duration-ms="13512" started-at="2023-04-06T22:37:43 EDT" finished-at="2023-04-06T22:37:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC23Leads -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="aftermethod" is-config="true" duration-ms="295" started-at="2023-04-06T22:37:57 EDT" finished-at="2023-04-06T22:37:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="beforemethod" is-config="true" duration-ms="2124" started-at="2023-04-06T22:37:57 EDT" finished-at="2023-04-06T22:37:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="TC24Leads()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="TC24Leads" duration-ms="15967" started-at="2023-04-06T22:37:59 EDT" finished-at="2023-04-06T22:38:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC24Leads -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Salesforce.TestCases.LeadsTests@950e31]" name="aftermethod" is-config="true" duration-ms="393" started-at="2023-04-06T22:38:15 EDT" finished-at="2023-04-06T22:38:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- Salesforce.TestCases.LeadsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

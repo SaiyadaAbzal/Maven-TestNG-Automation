@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Salesforce]">
+  <test thread-count="5" name="SFDCLogin(failed)">
+    <classes>
+      <class name="Salesforce.TestCases.UsermenuTests">
+        <methods>
+          <include name="TC7MySettings"/>
+          <include name="beforemethod"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- Salesforce.TestCases.UsermenuTests -->
+      <class name="Salesforce.TestCases.AccountTests">
+        <methods>
+          <include name="TC12Editview"/>
+          <include name="beforemethod"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- Salesforce.TestCases.AccountTests -->
+    </classes>
+  </test> <!-- SFDCLogin(failed) -->
+</suite> <!-- Failed suite [Salesforce] -->
